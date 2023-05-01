@@ -14,6 +14,8 @@ This is a conglomeration of projects to convert and quantize llm's
 * [unfiltered-Wizard Dataset](https://huggingface.co/datasets/ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered)
 * [h20-studiollm](https://github.com/h2oai/h2o-llmstudio)
 * [WizardLM](https://github.com/nlpxucan/WizardLM)
+* [Tloen/Alpaca-LoRA](https://github.com/tloen/alpaca-lora)
+* [JohnSmith-Alpaca-LoRA-4bit](https://github.com/johnsmith0031/alpaca_lora_4bit)
 
 ### TheBloke
 
